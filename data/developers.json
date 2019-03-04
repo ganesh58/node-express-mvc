@@ -391,7 +391,15 @@
   },
   {
     "_id": 308,
-    "email": "@nwmissouri.edu"
+     "email": "s534915@nwmissouri.edu",
+    "given": "Ganesh",
+    "family": "siripuram",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/ganesh58"
+
   },
   {
     "_id": 309,
